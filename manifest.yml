@@ -1,0 +1,5 @@
+applications:
+ - name: heuristic-dubinsky
+   memory: 256M
+   host: heuristic-dubinsky
+   buildpack: staticfile_buildpack
